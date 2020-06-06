@@ -1,4 +1,4 @@
-first_name = "Ada"
+first_name = input("What is your first name? ")
 
 print("Hello, world!")
 print("Hello, Nathaniel")
