@@ -6,6 +6,8 @@ number = input("Please enter a number: ")
 
 # TODO: Print out the User's name and the number entered,
 # making sure the two statements are on separate lines of output.
+print("Hi {}!".format(name))
+print("The number {}...".format(number))
 
 
 # TODO: Compare the number the user gave with the different
